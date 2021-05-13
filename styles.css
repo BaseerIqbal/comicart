@@ -79,20 +79,20 @@ margin-right: 50%;
 }
 
 .swiper-slide:nth-child(1) .slide-img {
-  background-image: url('./images/gow.jpg');
+  background-image: url('Images/gow.jpg');
   background-size: contain; background-repeat:no-repeat;
 }
 .swiper-slide:nth-child(2) .slide-img {
-  background-image: url('./images/subzero.jpeg');
+  background-image: url('Images/subzero.JPEG');
   background-size: contain; background-repeat:no-repeat;
 }
 .swiper-slide:nth-child(3) .slide-img {
-  background-image: url('./images/deadpool.jpeg');
+  background-image: url('Images/deadpool.jpeg');
   background-size: contain; background-repeat:no-repeat;
   background-size: cover;
 }
 .swiper-slide:nth-child(4) .slide-img {
-  background-image: url('./images/gambit.jpg');
+  background-image: url('Images/gambit.JPG');
   background-size: contain; background-repeat:no-repeat;
 
 }
